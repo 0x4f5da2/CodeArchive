@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\code\playground\opencv-lab\lab-2\lab-2\main.cpp(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Lab-2.vcxproj -> D:\CODE\Playground\OpenCV-Lab\Lab-2\x64\Debug\Lab-2.exe
