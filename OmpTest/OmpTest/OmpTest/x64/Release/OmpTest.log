@@ -1,0 +1,11 @@
+﻿  main.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c:\users\chen1\desktop\omptest\omptest\omptest\main.cpp(31): warning C4101: “e”: 未引用的局部变量
+c:\users\chen1\desktop\omptest\omptest\omptest\main.cpp(31): warning C4101: “s”: 未引用的局部变量
+c:\users\chen1\desktop\omptest\omptest\omptest\main.cpp(36): warning C4101: “r”: 未引用的局部变量
+  正在生成代码
+  7 of 11 functions (63.6%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OmpTest.vcxproj -> C:\Users\chen1\Desktop\OmpTest\OmpTest\x64\Release\OmpTest.exe

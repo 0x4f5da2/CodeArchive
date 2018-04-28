@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\chen1\desktop\omptest\omptest\omptest\main.cpp(44): warning C4068: 未知的杂注
+c:\users\chen1\desktop\omptest\omptest\omptest\main.cpp(27): warning C4101: “r”: 未引用的局部变量
+  正在生成代码
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  OmpTest.vcxproj -> C:\Users\chen1\Desktop\OmpTest\OmpTest\Release\OmpTest.exe
