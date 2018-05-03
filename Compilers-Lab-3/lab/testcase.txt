@@ -1,0 +1,87 @@
+1
+(ident, a)
+
+2
+(plus,  + )
+(ident, b)
+
+3
+(ident, a)
+(plus,  + )
+(ident, b)
+
+5
+(ident, a)
+(plus,  + )
+(ident, b)
+(plus,  + )
+(ident, c)
+
+5
+(ident, a)
+(plus,  + )
+(ident, b)
+(times,  * )
+(ident, c)
+
+5
+(ident, a)
+(times,  * )
+(ident, b)
+(plus,  + )
+(ident, c)
+
+6
+(plus,  + )
+(ident, a)
+(plus,  + )
+(ident, b)
+(plus,  + )
+(ident, c)
+
+7
+(plus,  - )
+(plus,  - )
+(ident, a)
+(plus,  + )
+(ident, b)
+(plus,  + )
+(ident, c)
+
+11
+(lparen,( )
+(ident, a)
+(plus,  + )
+(number, 15)
+(rparen,) )
+(times,  * )
+(lparen,( )
+(ident, b)
+(plus,  + )
+(number, 32)
+(rparen,) )
+
+
+10
+(lparen,( )
+(ident, a)
+(plus,  + )
+(number, 15)
+(rparen,) )
+(times,  * )
+(lparen,( )
+(ident, b)
+(plus,  + )
+(number, 32)
+(rparen,) )
+
+9
+(lparen,( )
+(ident, a)
+(times,  * )
+(ident, b)
+(plus,  + )
+(number, 32)
+(rparen,) )
+(plus,  + )
+(ident, b)
