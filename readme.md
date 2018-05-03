@@ -11,3 +11,5 @@
 * `SOCK`: 帮别人改的sock通信程序
 
 * `Compilers-Lab-3`: 编译原理递归下降实验
+
+* `dequeue-lab`: 数据结构的受限双端队列研讨
