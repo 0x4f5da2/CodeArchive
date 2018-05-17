@@ -15,3 +15,5 @@
 * `dequeue-lab`: 数据结构的受限双端队列研讨
 
 * `ca_mpi`: 计算机体系结构的MPI实验（东抄西抄）
+
+* `opencv-sudoko`: OpenCV大作业，手写数独拍照求解
