@@ -1,6 +1,6 @@
 # 使用OpenCV的手写数独识别
 
-* great thanks to [`nonococoleo`(collaboraotr)](https://github.com/nonococoleo)
+* great thanks to [`nonococoleo`(collaborator)](https://github.com/nonococoleo)
 
 * 原图
 
