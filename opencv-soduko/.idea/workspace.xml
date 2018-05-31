@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/scan.py" line="54" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab1dd9b-fc64-48bf-8dd7-e933ce12f697" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,31 +13,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/opencv_soduko$solve.coverage" NAME="solve Coverage Results" MODIFIED="1525705039323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/opencv_soduko$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1525660718631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv_soduko$knn.coverage" NAME="knn Coverage Results" MODIFIED="1525663591666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv_soduko$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1525660718631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv_soduko$main.coverage" NAME="main Coverage Results" MODIFIED="1527520269190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv_soduko$solve.coverage" NAME="solve Coverage Results" MODIFIED="1525705039323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv_soduko$temp.coverage" NAME="temp Coverage Results" MODIFIED="1525779201728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv_soduko$sudo.coverage" NAME="sudo Coverage Results" MODIFIED="1525783329471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/opencv_soduko$main.coverage" NAME="main Coverage Results" MODIFIED="1525791907330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
+            <state relative-caret-position="547">
               <caret line="54" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#0#56#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
+            <state relative-caret-position="698">
               <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="sudo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sudo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="721">
               <caret line="333" selection-start-line="333" selection-end-line="333" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -106,9 +106,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -122,6 +122,11 @@
               <item name="opencv-soduko" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencv-soduko" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="opencv-soduko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opencv-soduko" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -131,6 +136,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
@@ -288,17 +294,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16397415" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1672043" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
@@ -352,11 +358,35 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scan.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2668">
+          <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sudo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7590">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scan.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -374,19 +404,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.py" />
     <entry file="file://$PROJECT_DIR$/temp.py" />
     <entry file="file://$PROJECT_DIR$/temp.py" />
     <entry file="file://$PROJECT_DIR$/preprocess.py" />
@@ -406,54 +427,31 @@
     <entry file="file://$PROJECT_DIR$/temp.py" />
     <entry file="file://$PROJECT_DIR$/preprocess.py" />
     <entry file="file://$PROJECT_DIR$/knn.py" />
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/posixpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/glob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/posixpath.py" />
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/glob.py" />
     <entry file="file://$PROJECT_DIR$/preprocess.py" />
     <entry file="file://$PROJECT_DIR$/mnist/model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-344" />
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="1077" selection-start-line="1077" selection-end-line="1077" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/lib/python3.6/site-packages/tensorflow/python/client/session.py" />
     <entry file="file://$PROJECT_DIR$/knn.py" />
     <entry file="file://$PROJECT_DIR$/mnist/convolutional.py" />
     <entry file="file://$PROJECT_DIR$/mnist/regression.py" />
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/copy.py" />
     <entry file="file://$PROJECT_DIR$/temp.py" />
-    <entry file="file://$PROJECT_DIR$/solve.py">
+    <entry file="file://$PROJECT_DIR$/solve.py" />
+    <entry file="file://$PROJECT_DIR$/scan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="87" selection-start-line="87" selection-end-line="95" selection-end-column="40" />
+        <state relative-caret-position="547">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sudo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="721">
           <caret line="333" selection-start-line="333" selection-end-line="333" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -463,20 +461,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="698">
           <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
