@@ -19,3 +19,5 @@
 * `opencv-sudoko`: OpenCV大作业，手写数独拍照求解
 
 * `recursiveDescent.py`: 递归下降表达式求值
+
+* `SeetaFace-Verification-Experiment`: SeetaFace实验
